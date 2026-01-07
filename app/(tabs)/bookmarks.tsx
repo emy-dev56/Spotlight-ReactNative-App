@@ -1,10 +1,10 @@
 import React from 'react'
 import { Text, View } from 'react-native'
 
-export default function Notification() {
+export default function Bookmarks() {
   return (
     <View>
-      <Text>Notification Screen</Text>
+      <Text>B</Text>
     </View>
   )
 }
